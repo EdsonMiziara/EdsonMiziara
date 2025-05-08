@@ -1,6 +1,6 @@
 ## Oi pessoal 👋
 - 🔭Atualmente: Estou me profissionalizando. Em busca do primeiro emprego na área de dev.
-- 🌱Atualmente Estudando: C# | .Net Core | Integração SQL
+- 🌱Atualmente Estudando: C# | .Net Core | Integração SQL | Testes Automarizados
 - 💬Sobre mim: Tenho 6 meses de código, sempre tive interesse na area e tive a oportunidade de me aprofundar e estudar sobre o que gosto.
 - ⚡Sobre meu GitHub: Vão ter varios tipos de Projetos aqui. De projetos complexos a projetos simples.
 
