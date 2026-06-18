@@ -20,7 +20,7 @@ Sou um **Desenvolvedor Backend especializado no ecossistema .NET**. Atualmente c
 Sistema de alto desempenho voltado para a gestão financeira e automação de fluxos de caixa condominiais.
 * **Destaques Técnicos:** Desenvolvido sob os princípios da **Clean Architecture** e *Rich Domain Model*. Implementa um motor autônomo de conciliação bancária via processamento de arquivos **OFX** com margem de tolerância e garante a segurança contra duplicidade gerando hashes criptográficos (**SHA-256**). 
 * **Automação:** Possui um `BackgroundService` assíncrono para clonagem de despesas recorrentes a cada virada de mês e pipeline automatizado de **CI/CD via GitHub Actions** para testes automáticos (xUnit).
-* *Tech Stack:* C#, .NET 8, Minimal APIs, EF Core, PostgreSQL, GitHub Actions, xUnit e FluentAssertions.
+* *Tech Stack:* C#, .NET 10, Minimal APIs, EF Core, PostgreSQL, GitHub Actions, xUnit e FluentAssertions.
 
 #### 🎵 [ScreenSound](https://github.com/EdsonMiziara/ScreenSound)
 Plataforma completa para gerenciamento de artistas, músicas e álbuns.
